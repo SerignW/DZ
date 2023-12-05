@@ -1,2 +1,2 @@
 new project
-print
+print('Hi world')

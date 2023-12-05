@@ -1,2 +1,1 @@
-new project
-von von
+print('Hi world')
